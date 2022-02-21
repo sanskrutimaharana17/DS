@@ -1,24 +1,29 @@
 #include <iostream>   
 using namespace std;
 
-void findElement(int arr[],int N,int K){
-	for (int i=0;i<N;i++){
-		if(arr[i]==K){
-			cout<<"Element found";
-			return;
-		}
-	}
-	cout<<"Element not found";
-}
 int main()
 {
-	int arr[]={1,2,3,4};
+	int arr[100];
+	int n,num;
+	cout<<"size of array";
+	cin>>n;
 	
-	int K=3;
+	cout<<"number to be found";
+	cin>>num;
 	
-	int N=4;
 	
-	findElement(arr,N,K);
-		return 0;
+	for(int i=0;i<n;i++){
+		cin>>arr[i];
+	}
+	
+	for(int i=0;i<n;i++){
+		if(arr[i]==num){
+		cout<<"number found";	
+		}
+	}
+		
+	
+	return 0;
 }
+
 																											                                                                                                             
