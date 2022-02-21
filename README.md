@@ -1,5 +1,5 @@
 # DS
-                                           TRAVERSING
+                                               TRAVERSING
 
 
 ![image](https://user-images.githubusercontent.com/93183819/154879280-7483fd6d-7aaa-454a-a828-99cd980166c6.png)
@@ -7,10 +7,12 @@
 
 
 
-                                           SEARCHING
-                                           
-                                           
-![image](https://user-images.githubusercontent.com/93183819/154787270-5105bbdf-ceb6-4779-99c7-ba3a485712e1.png)
+                                                SEARCHING
+       
+       
+![image](https://user-images.githubusercontent.com/93183819/154880096-25baad32-a505-4cfb-8f7b-33fc781779f1.png)
+                                         
+
 
 
                                            INSERTION
