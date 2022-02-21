@@ -2,7 +2,9 @@
                                            TRAVERSING
 
 
-![image](https://user-images.githubusercontent.com/93183819/154749580-7da48b80-50a3-4581-848a-6d04df0c8059.png)
+![image](https://user-images.githubusercontent.com/93183819/154879280-7483fd6d-7aaa-454a-a828-99cd980166c6.png)
+
+
 
 
                                            SEARCHING
