@@ -22,4 +22,9 @@
                                            
                                         
  
+                                                   DELETING
+
+                                                 
+ ![image](https://user-images.githubusercontent.com/93183819/155290626-00375bda-4dc5-469e-8357-ff90e5cdf385.png)
+                                                
                                           
