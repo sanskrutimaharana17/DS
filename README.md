@@ -28,3 +28,9 @@
  ![image](https://user-images.githubusercontent.com/93183819/155290626-00375bda-4dc5-469e-8357-ff90e5cdf385.png)
                                                 
                                           
+                                          
+                                                    SORTING
+                                                    
+                                                    
+ ![image](https://user-images.githubusercontent.com/93183819/155292805-71de8515-6638-4900-9962-59896c723ec0.png)
+                                                   
