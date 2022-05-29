@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main(){
+	int arr[50];
+	int n;
+	
+	printf("enter no pf elements");
+	scanf("%d",&n);
+	
+	for (int i=1;i<=n;i++){
+		printf("enter elements");
+		scanf("%d",&arr[i]);
+	}
+	
+	for(int i=1;i<=n;i++){
+		for(int j=1;j<=n;j++){
+			if(arr[i]<arr[j]){
+				int temp =arr[i];
+				arr[i]=arr[j];
+				arr[j]=temp;
+			}
+		}
+	}
+	printf(" sorted array\n");
+	for (int i=1;i<=n;i++){
+		//printf("enter elements");
+		printf("%d\n",arr[i]);
+	}
+	
+	
+}
